@@ -1,6 +1,6 @@
 # GrainLight
 
-GrainLight is an AI prototype I built through Grain of Growth, a rural education initiative I founded in Hunan, China. I built it in using React and TypeScript.
+GrainLight is an AI prototype I built through Grain of Growth, a rural education initiative I founded in Hunan, China. I built this prototype using React and TypeScript.
 
 I first designed GrainLight to explain math and English concepts in local dialects. After visiting partner schools and talking with teachers, I realized that a clear explanation was only part of what made a lesson work. The questions teachers asked, the time they gave students to respond, and who participated also mattered.
 
